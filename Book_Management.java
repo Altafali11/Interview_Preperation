@@ -41,11 +41,11 @@ public class Book_Management {
 		Book b1 = new Book();
 		b1.CreateBook(101, 180, "Revolution2020", "ChetanBhagat", true , Book.LibraryName);
 		Book b2 = new Book();
-		b1.CreateBook(102, 220, "Rich Dad Poor Dad", " Robert Kiyosak", true , Book.LibraryName);
+		b2.CreateBook(102, 220, "Rich Dad Poor Dad", " Robert Kiyosak", true , Book.LibraryName);
 		Book b3 = new Book();
-		b1.CreateBook(103, 150, "HalfGirlfriend", "ChetanBhagat", false , Book.LibraryName);
+		b3.CreateBook(103, 150, "HalfGirlfriend", "ChetanBhagat", false , Book.LibraryName);
 		Book b4 = new Book();
-		b1.CreateBook(104, 185, "Harry Potter and the Cursed Child", "J.K Rowlling", true , Book.LibraryName);
+		b4.CreateBook(104, 185, "Harry Potter and the Cursed Child", "J.K Rowlling", true , Book.LibraryName);
 		
 		
 		
